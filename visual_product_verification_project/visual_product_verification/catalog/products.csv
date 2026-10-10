@@ -1,0 +1,4 @@
+barcode,product_name,brand,category,reference_image
+8900000000011,Demo Coffee Packet,DemoBrand,Beverages,demo_coffee.png
+8900000000028,Demo Tea Packet,DemoBrand,Beverages,demo_tea.jpg
+8900000000035,Demo Biscuit Packet,DemoBrand,Snacks,demo_biscuit.jpg

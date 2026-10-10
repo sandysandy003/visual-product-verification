@@ -1,0 +1,14 @@
+timestamp,barcode_entered,catalog_product,visual_prediction,visual_score,status,image_file
+2026-10-10T20:38:49,8010380376345,Barcode not found in local catalog,Unknown product,0.0,REVIEW: barcode unknown,C:/Users/DINESH/OneDrive/Pictures - Copy/Pictures/Screenshots/Screenshot 2026-10-10 203633.png
+2026-10-10T20:39:01,8010380376345,Barcode not found in local catalog,Unknown product,0.0,REVIEW: barcode unknown,C:/Users/DINESH/OneDrive/Pictures - Copy/Pictures/Screenshots/Screenshot 2026-10-10 203633.png
+2026-10-10T20:39:31,8010380376345,Barcode not found in local catalog,Unknown product,0.0,REVIEW: barcode unknown,C:/Users/DINESH/OneDrive/Pictures - Copy/Pictures/Screenshots/Screenshot 2026-10-10 203633.png
+2026-10-10T20:44:47,8900000000011,Demo Coffee Packet,Unknown product,0.0,REVIEW: visual match uncertain,C:/Users/DINESH/OneDrive/Desktop/model image.jpg
+2026-10-10T20:45:12,8900000000011,Demo Coffee Packet,Unknown product,0.0,REVIEW: visual match uncertain,C:/Users/DINESH/OneDrive/Desktop/images.jpg
+2026-10-10T20:45:27,8900000000011,Demo Coffee Packet,Unknown product,0.0,REVIEW: visual match uncertain,C:/Users/DINESH/OneDrive/Desktop/model image.jpg
+2026-10-10T21:09:56,8900000000011,Demo Coffee Packet,Demo Coffee Packet,0.1875,MATCH: names agree; confirm operationally,C:/Users/DINESH/OneDrive/Desktop/model image.jpg
+2026-10-10T21:12:50,8900000000028,Demo Tea Packet,Demo Coffee Packet,0.175,REVIEW: possible mismatch,C:/Users/DINESH/OneDrive/Desktop/model.jpg
+2026-10-10T21:14:03,8900000000028,Demo Tea Packet,Demo Coffee Packet,0.1359,REVIEW: possible mismatch,C:/Users/DINESH/OneDrive/Desktop/images (1).jpg
+2026-10-10T21:23:00,8900000000028,Demo Tea Packet,Demo Coffee Packet,0.2275,REVIEW: possible mismatch,C:/Users/DINESH/OneDrive/Desktop/model 2.jpg
+2026-10-10T21:23:36,8900000000028.,Barcode not found in local catalog,Demo Coffee Packet,0.2275,REVIEW: barcode unknown,C:/Users/DINESH/OneDrive/Desktop/model 2.jpg
+2026-10-10T21:24:42,8900000000035,Demo Biscuit Packet,Demo Coffee Packet,0.2275,REVIEW: possible mismatch,C:/Users/DINESH/OneDrive/Desktop/model 2.jpg
+2026-10-10T21:25:22,8900000000035,Demo Biscuit Packet,Demo Coffee Packet,0.2275,REVIEW: possible mismatch,C:/Users/DINESH/OneDrive/Desktop/model 2.jpg
